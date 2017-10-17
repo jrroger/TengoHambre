@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "473753121568",
+    "firebase_url": "https://acomer-cea91.firebaseio.com",
+    "project_id": "acomer-cea91",
+    "storage_bucket": "acomer-cea91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473753121568:android:cad2ebac2db22c91",
+        "android_client_info": {
+          "package_name": "soltec.dev.acomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473753121568-srf1181upcgghst0q4fbfmern357h0ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "soltec.dev.acomer",
+            "certificate_hash": "ceee142ee2a75031988c483d7c9b553f806bb599"
+          }
+        },
+        {
+          "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFdopAiZr6ZdgXDeinAnPyEjJVaNgBQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473753121568:android:37d973f027ff11aa",
+        "android_client_info": {
+          "package_name": "soltec.dev.programacionandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473753121568-0h239o147l14idk1q19qm844q99fbhnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "soltec.dev.programacionandroid",
+            "certificate_hash": "ceee142ee2a75031988c483d7c9b553f806bb599"
+          }
+        },
+        {
+          "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFdopAiZr6ZdgXDeinAnPyEjJVaNgBQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473753121568:android:c686607a1eb5e10c",
+        "android_client_info": {
+          "package_name": "soltec.dev.tengohambre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473753121568-o5utggep4og5f5obmoukr1gufv4dmpc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "soltec.dev.tengohambre",
+            "certificate_hash": "ceee142ee2a75031988c483d7c9b553f806bb599"
+          }
+        },
+        {
+          "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFdopAiZr6ZdgXDeinAnPyEjJVaNgBQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473753121568-u3vcf22p8mu8e6di04nvnfiq3687pioi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

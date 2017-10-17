@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tengo Hambre</string>
+    <string name="txtSlogan">De la cocina tradicional tabasqueña, a tu puerta...</string>
+    <string name="btnSignUp">Crear cuenta</string>
+    <string name="btnSignIn">Iniciar Sesión</string>
+    <string name="edtPhone">Telefono</string>
+    <string name="edtPassword">Contraseña</string>
+    <string name="edtName">Nombre</string>
+</resources>
